@@ -8,7 +8,7 @@
 
 # 🌸 Hi, I'm Anjali Saini 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=C792EA&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Building+Intelligent+Software;Always+Learning+Something+New+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=C792EA&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Building+Intelligent+Software;Always+Learning+Something+New+🚀"/>
 
 ### 💜 Building intelligent, scalable software through AI, Data Science & Full Stack Engineering.
 
@@ -20,19 +20,21 @@
 
 # 🌙 About Me
 
-I'm a **Computer Science Engineering** student passionate about creating software that combines **Artificial Intelligence, Data Science, and Full Stack Development**.
-
-I enjoy transforming ideas into scalable products while continuously exploring modern technologies, system design, and intelligent software engineering.
+- 🎓 B.Tech Computer Science Engineering (AI & Data Science)
+- 💻 Passionate about Software Engineering & Full Stack Development
+- 🤖 Exploring Artificial Intelligence, Machine Learning & Generative AI
+- 🚀 Building scalable web applications and AI-powered products
+- 📚 Learning continuously through projects, LeetCode, and open source
 
 ---
 
-## 🌸 Current Focus
+# 🎯 Current Focus
 
 - 💻 Full Stack Development
 - 🤖 Artificial Intelligence
-- 📊 Data Science & Machine Learning
+- 📊 Machine Learning & Data Science
 - 🧠 Data Structures & Algorithms
-- 🚀 LeetCode & Interview Preparation
+- 🚀 Interview Preparation
 - 🌍 Open Source Contributions
 
 ---
@@ -71,7 +73,7 @@ I enjoy transforming ideas into scalable products while continuously exploring m
 - Data Analysis
 - Feature Engineering
 - Model Evaluation
-- Deployment with Gradio
+- Gradio Deployment
 
 ---
 
@@ -82,9 +84,9 @@ Currently exploring
 - Neural Networks
 - Transformers
 - AI Agents
-- Vector Databases
 - RAG
-- Fine-Tuning
+- Vector Databases
+- Fine-Tuning LLMs
 
 ---
 
@@ -135,28 +137,83 @@ Currently exploring
 </div>
 
 ---
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anjalisaini89/anjalisaini89/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+# 🐍 Contribution Snake
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/anjalisaini89/anjalisaini89/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+# 📊 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjalisaini89&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjalisaini89&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anjalisaini89&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anjalisaini89&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anjalisaini89&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 🚀 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/anjalisaini89/Vibely">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anjalisaini89&repo=Vibely&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/anjalisaini89/leetcode">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anjalisaini89&repo=leetcode&theme=tokyonight"/>
+</a>
+
+</div>
+
+---
+
+# 🏅 Achievements
+
+- 🎓 Pragati Scholarship Recipient
+- 💻 Building AI, Machine Learning & Full Stack Projects
+- 🚀 Consistently solving LeetCode problems
+- 🌱 Passionate about Open Source & Continuous Learning
+
+---
 
 # 🌱 Currently Learning
 
 - ☁️ Cloud Computing
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- ⚡ System Design
+- 🤖 Deep Learning
+- 🧠 System Design
 - 🚀 Advanced Data Structures & Algorithms
 - 🐳 Docker & CI/CD
+- ⚡ Generative AI
 
 ---
 
 # 🤝 Open To
 
 - 💼 Software Engineering Internships
-- 🤖 AI / ML Internships
+- 🤖 AI / Machine Learning Internships
 - 📊 Data Science Internships
 - 🌍 Open Source Programs
 - 🏆 Hackathons
@@ -176,7 +233,7 @@ Currently exploring
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/anjali-saini-598ba0325">
+<a href="https://www.linkedin.com/in/anjali-saini-598ba0325/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -188,9 +245,19 @@ Currently exploring
 
 ---
 
-# 🌸 Fun Fact
+# 💜 Philosophy
 
-> *"Consistency is more powerful than talent when talent doesn't stay consistent."*
+> *"Consistency compounds. Every project, every commit, and every challenge is an opportunity to become a better engineer."*
+
+---
+
+# 💭 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
