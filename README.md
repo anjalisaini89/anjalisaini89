@@ -203,7 +203,6 @@
 - 🏆 **AICTE Pragati Scholarship** — for meritorious female engineering students
 - 💼 **Data Science Intern** @ CodeAlpha — deployed ML models on Hugging Face Spaces
 - 🚀 **Smart India Hackathon 2025** — Team Lead
-- 🌍 **WeForShe HackerRamp 2026** by Myntra — registered participant
 - 💻 Consistently solving LeetCode problems
 - 🌱 Passionate about open source & continuous learning
 
