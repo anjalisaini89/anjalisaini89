@@ -12,6 +12,8 @@
 
 ### 💜 Building intelligent, scalable software through AI, Data Science & Full Stack Engineering.
 
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-anjali.dev-8A2BE2?style=for-the-badge)](https://anjali-bytes-shine.lovable.app)
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=anjalisaini89&style=for-the-badge&color=blueviolet"/>
 
 </div>
@@ -20,11 +22,12 @@
 
 ## 🌙 About Me
 
-- 🎓 **B.Tech CSE (AI & Data Science)** · Chandigarh Engineering College, Landran · CGPA: **8.04/10**
-- 💼 **Data Science Intern** @ CodeAlpha — building & deploying ML models on Hugging Face Spaces
+- 🎓 **B.Tech CSE (AI & Data Science)** · Chandigarh Engineering College, Landran · CGPA: **8.09/10**
+- 💼 **Data Science Intern** @ CodeAlpha ✅ — deployed ML models on Hugging Face Spaces
 - 🤖 Exploring Machine Learning, Generative AI & Full Stack Engineering
 - 🚀 Building scalable web applications and AI-powered products
 - 🏆 **AICTE Pragati Scholarship** Recipient · Smart India Hackathon 2025 Team Lead
+- 📊 **12+ Projects** · **2 Hackathons** · **5+ Certifications**
 - 📚 Continuously learning through projects, LeetCode & open source
 
 ---
@@ -201,8 +204,10 @@
 ## 🏅 Achievements & Recognition
 
 - 🏆 **AICTE Pragati Scholarship** — for meritorious female engineering students
-- 💼 **Data Science Intern** @ CodeAlpha — deployed ML models on Hugging Face Spaces
+- 💼 **Data Science Intern @ CodeAlpha** ✅ — deployed ML models on Hugging Face Spaces
 - 🚀 **Smart India Hackathon 2025** — Team Lead
+- 🌸 **WeForShe HackerRamp 2026** by Myntra — participant
+- 📜 **5+ Certifications** across ML, Data Science & Web Development
 - 💻 Consistently solving LeetCode problems
 - 🌱 Passionate about open source & continuous learning
 
@@ -233,6 +238,10 @@
 ## 📫 Connect With Me
 
 <div align="center">
+
+<a href="https://anjali-bytes-shine.lovable.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-8A2BE2?style=for-the-badge"/>
+</a>
 
 <a href="https://github.com/anjalisaini89">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
