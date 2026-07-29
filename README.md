@@ -27,7 +27,7 @@
 - 🤖 Exploring Machine Learning, Generative AI & Full Stack Engineering
 - 🚀 Building scalable web applications and AI-powered products
 - 🏆 **AICTE Pragati Scholarship** Recipient · Smart India Hackathon 2025 Team Lead
-- 📊 **12+ Projects** · **2 Hackathons** · **5+ Certifications**
+- 📊 **8+ Projects** · **2 Hackathons** · **5+ Certifications**
 - 📚 Continuously learning through projects, LeetCode & open source
 
 ---
