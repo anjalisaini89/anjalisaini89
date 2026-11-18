@@ -1,18 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:6A5ACD,50:8A2BE2,100:C792EA&section=header"/>
 
-<p align="center">
-  <img src="assets/banner.png" width="100%" alt="GitHub Banner"/>
-</p>
-
 <div align="center">
 
 # 🌸 Hi, I'm Anjali Saini 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=C792EA&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Building+Intelligent+Software;Always+Learning+Something+New+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=C792EA&center=true&vCenter=true&width=850&lines=B.Tech+AI+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+Practitioner;Building+Intelligent+Software+🚀"/>
 
 ### 💜 Building intelligent, scalable software through AI, Data Science & Full Stack Engineering.
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-anjali.dev-8A2BE2?style=for-the-badge)](https://anjali-bytes-shine.lovable.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-anjalisaini899--portfolio-8A2BE2?style=for-the-badge)](https://anjalisaini899-portfolio.lovable.app)
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=anjalisaini89&style=for-the-badge&color=blueviolet"/>
 
@@ -22,32 +18,46 @@
 
 ## 🌙 About Me
 
-- 🎓 **B.Tech CSE (AI & Data Science)** · Chandigarh Engineering College, Landran · CGPA: **8.09/10**
-- 💼 **Data Science Intern** @ CodeAlpha ✅ — deployed ML models on Hugging Face Spaces
-- 🤖 Exploring Machine Learning, Generative AI & Full Stack Engineering
-- 🚀 Building scalable web applications and AI-powered products
-- 🏆 **AICTE Pragati Scholarship** Recipient · Smart India Hackathon 2025 Team Lead
-- 📊 **8+ Projects** · **2 Hackathons** · **5+ Certifications**
-- 📚 Continuously learning through projects, LeetCode & open source
+- 🎓 **B.Tech in Artificial Intelligence & Data Science** · Chandigarh Group of Colleges, Landran (Mohali, Punjab) · Jul 2024 – Present · CGPA: **8.10**
+- 💼 **Data Science Intern** @ CodeAlpha (Jun – Jul 2026)
+- 📚 **Data Science Using Python Trainee** @ Tech Live (Jun – Jul 2026)
+- 🏆 **AICTE Pragati Scholarship** recipient · **Smart India Hackathon 2025** participant
+- 🚀 Building AI-powered products and full stack web applications
 
 ---
 
-## 🎯 Current Focus
+## 💼 Experience
 
-- 💻 Full Stack Development (React · Node.js · Firebase)
-- 🤖 Machine Learning & Model Deployment (Hugging Face · Gradio)
-- 📊 Data Science & Feature Engineering
-- 🧠 Data Structures & Algorithms
-- ☁️ Cloud Computing & Docker
-- 🌍 Open Source Contributions
+### Data Science Intern · CodeAlpha
+*June 2026 – July 2026*
+
+- Built an **Iris Flower Classification** pipeline in Python and Scikit-learn, covering automated dataset inspection, preprocessing, EDA, model training and evaluation.
+- Built a **Used Car Price Prediction** pipeline with feature engineering, categorical encoding and outlier handling, comparing Linear Regression, Decision Tree and Random Forest models.
+- Used Pandas, NumPy, Matplotlib, Seaborn and Scikit-learn for preprocessing, visualization, feature engineering and model evaluation; saved trained models with Joblib.
+
+### Data Science Using Python Trainee · Tech Live
+*June 2026 – July 2026*
+
+- Completed hands-on training in Python, exploratory data analysis, data preprocessing, visualization and machine learning.
+- Built an **Employee Salary Prediction** system using Linear Regression, with automated Kaggle dataset acquisition, EDA and evaluation using MAE, MSE, RMSE and R².
+- Extended the model into a multi-feature salary predictor (Age, Education Level, Job Title, Years of Experience) with interactive Streamlit and Gradio interfaces.
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Technical Skills
+
+| | |
+|---|---|
+| **Languages** | Python · C++ · C · JavaScript · SQL · R |
+| **AI / ML** | Scikit-learn · PyTorch · TensorFlow · NLP · Deep Learning |
+| **Data** | Pandas · NumPy · Matplotlib · Data Preprocessing · Data Visualization |
+| **Web** | React.js · FastAPI · Node.js · Vite · HTML5 · CSS3 · REST APIs |
+| **Databases** | MongoDB · MySQL |
+| **Tools** | Git · GitHub · VS Code · Vercel · AWS |
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,react,nodejs,express,mongodb,mysql,git,github,vscode,firebase,vercel,tensorflow,pytorch,docker"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,fastapi,mongodb,mysql,tensorflow,pytorch,git,github,vscode,vercel,aws"/>
 
 </div>
 
@@ -55,67 +65,66 @@
 
 ## 🚀 Featured Projects
 
-### 🎵 Vibely — AI-Powered Music Streaming Platform
+### 🐦 BirdSense-AI — AI Bird Sound Classification
 
-> React + Vite · Firebase · Spotify-inspired UI
+> Python · PyTorch · Librosa · FastAPI · React.js · JavaScript
+
+[![Repo](https://img.shields.io/badge/GitHub-BirdSense--AI-6A5ACD?style=for-the-badge&logo=github)](https://github.com/anjalisaini89/BirdSense-AI)
+
+- End-to-end deep learning pipeline for bird sound classification, from preprocessing and feature extraction to model inference.
+- MFCC-based audio feature extraction with Librosa; returns Top-5 species predictions with confidence scores.
+- React.js interface with audio upload, playback, loading/error states and ranked predictions, connected to a FastAPI REST API for real-time inference.
+
+---
+
+### 🎵 Vibely — Full-Stack Music Streaming & Recommendation Platform
+
+> React.js · Node.js · Express.js · JavaScript · REST APIs · HTML5 Audio API
 
 [![Repo](https://img.shields.io/badge/GitHub-Vibely-6A5ACD?style=for-the-badge&logo=github)](https://github.com/anjalisaini89/Vibely)
 
-**Features:**
-- 🎧 AI DJ with smart playlist management
-- 👥 Listen-with-friends sessions
-- 🌙 Anime-inspired dark UI with firefly animations
-- 🔥 Real-time Firebase integration
+- Full-stack music streaming app with song discovery, search, category filtering, playlists, listening history, queue management and shuffle/repeat.
+- Reusable React audio-player architecture with custom hooks for playback state, progress tracking, volume control and automatic track transitions.
+- Node.js/Express REST APIs serving song metadata and audio content, with listening analytics and personalization (play counts, favorites, recently played).
+- Modular frontend/backend structure and a responsive anime-inspired UI with animated visual effects.
 
 ---
 
-### 🌸 Iris Flower Classifier — ML Deployment
+### 🌸 Iris Flower Classifier · 🚗 Car Price Prediction · 💰 Employee Salary Prediction
 
-> Python · Scikit-learn · Gradio · Hugging Face Spaces
+Internship and training projects built with Python, Scikit-learn, Pandas and Gradio/Streamlit.
 
-[![Live Demo](https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Demo-C792EA?style=for-the-badge)](https://huggingface.co/spaces/anjalisaini89/iris-flower-classifier)
+[![Live Demo](https://img.shields.io/badge/🤗%20Hugging%20Face-Iris%20Demo-C792EA?style=for-the-badge)](https://huggingface.co/spaces/anjalisaini89/iris-flower-classifier)
 [![Repo](https://img.shields.io/badge/GitHub-Iris--Classifier-6A5ACD?style=for-the-badge&logo=github)](https://github.com/anjalisaini89/CodeAlpha_Iris_Flower_Classification)
-
-**Highlights:**
-- Multi-class classification (Setosa · Versicolor · Virginica)
-- Gradio web interface deployed live on Hugging Face
-- Feature engineering, model evaluation & visualization
-
----
-
-### 🚗 Car Price Prediction — Regression Model
-
-> Python · Pandas · Scikit-learn · Gradio
-
 [![Repo](https://img.shields.io/badge/GitHub-Car--Price--Prediction-6A5ACD?style=for-the-badge&logo=github)](https://github.com/anjalisaini89/CodeAlpha_Car_Price_Prediction)
 
-**Highlights:**
-- End-to-end regression pipeline with EDA & feature engineering
-- Multiple model comparison (Linear, Ridge, Random Forest)
-- Interactive Gradio demo for live price prediction
+---
+
+## 📜 Certifications
+
+- ☁️ AWS Certified Developer – Associate
+- 🤖 Applied Machine Learning: Foundations
+- 🍃 Building AI-Powered Search with MongoDB
+- 🧠 AI and Innovation: How MongoDB Enables AI
+- 🇮🇳 NASSCOM FutureSkills Prime – Digital Edge 101
 
 ---
 
-## 💻 LeetCode Progress
+## 🏅 Achievements
 
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/anjali_saini_?theme=dark&font=Poppins&ext=heatmap"/>
-
-</div>
+- 🏆 **AICTE Pragati Scholarship** recipient
+- 🚀 **Smart India Hackathon 2025** — member of a six-member team
+- 🎨 **1st Position** — Drawing Competition, College Orientation Program
+- 💻 **Full Stack Engineering Challenge** — completed, June 2026
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjalisaini89&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisaini89&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=anjalisaini89&theme=tokyonight&hide_border=true"/>
 
@@ -123,115 +132,17 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anjalisaini89&theme=tokyonight&no-frame=true&column=7"/>
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjalisaini89&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/anjalisaini89/anjalisaini89/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-## 📊 GitHub Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjalisaini89&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjalisaini89&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anjalisaini89&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anjalisaini89&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anjalisaini89&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
-## 🚀 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/anjalisaini89/Vibely">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anjalisaini89&repo=Vibely&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/anjalisaini89/CodeAlpha_Iris_Flower_Classification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anjalisaini89&repo=CodeAlpha_Iris_Flower_Classification&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/anjalisaini89/CodeAlpha_Car_Price_Prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anjalisaini89&repo=CodeAlpha_Car_Price_Prediction&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/anjalisaini89/leetcode">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anjalisaini89&repo=leetcode&theme=tokyonight"/>
-</a>
-
-</div>
-
----
-
-## 🏅 Achievements & Recognition
-
-- 🏆 **AICTE Pragati Scholarship** — for meritorious female engineering students
-- 💼 **Data Science Intern @ CodeAlpha** ✅ — deployed ML models on Hugging Face Spaces
-- 🚀 **Smart India Hackathon 2025** — Team Lead
-- 🌸 **WeForShe HackerRamp 2026** by Myntra — participant
-- 📜 **5+ Certifications** across ML, Data Science & Web Development
-- 💻 Consistently solving LeetCode problems
-- 🌱 Passionate about open source & continuous learning
-
----
-
 ## 🌱 Currently Learning
 
-- ☁️ Cloud Computing & CI/CD
-- 🤖 Deep Learning & Transformers
-- 🧠 System Design
-- 🚀 Advanced DSA
-- 🐳 Docker
-- ⚡ Generative AI & RAG
+Deep Learning & Transformers · Generative AI & RAG · System Design · Docker & CI/CD
 
 ---
 
 ## 🤝 Open To
 
-- 💼 Software Engineering Internships
-- 🤖 AI / ML Internships
-- 📊 Data Science Internships
-- 🌍 Open Source Programs
+- 💼 Software Engineering, AI/ML and Data Science internships
 - 🏆 Hackathons
-- 🔬 Research Collaborations
+- 🌍 Open source programs
 
 ---
 
@@ -239,7 +150,7 @@
 
 <div align="center">
 
-<a href="https://anjali-bytes-shine.lovable.app">
+<a href="https://anjalisaini899-portfolio.lovable.app">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-8A2BE2?style=for-the-badge"/>
 </a>
 
@@ -247,12 +158,12 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://leetcode.com/u/anjali_saini_/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/anjali-saini-598ba0325/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/anjali_saini_/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://huggingface.co/anjalisaini89">
@@ -267,27 +178,9 @@
 
 ---
 
-## 💜 Philosophy
-
-> *"Consistency compounds. Every project, every commit, and every challenge is an opportunity to become a better engineer."*
-
----
-
-## 💭 Developer Quote
-
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Dream. Code. Build. Repeat."* 💜
+*"Consistency compounds. Every project, every commit, and every challenge is an opportunity to become a better engineer."* 💜
 
 </div>
 
